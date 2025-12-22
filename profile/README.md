@@ -6,7 +6,7 @@ Vicinity is undergoing a comprehensive rebuild with enhanced support infrastruct
 
 Our platform consists of three integrated components:
 - **Talon** - A rewrite for Pterodactyl Panel in Golang (In Progress)
-- **VicnityExternal** - A external Roblox cheat with many features (In Porgress)
+- **VicnityExternal** - A external Roblox cheat with many features (In Progress)
 - **Tendix** - A open-source POS solution (Idea)
 
 These components represent a single cohesive platform that has been strategically segmented to optimize development workflows and maintainability.
