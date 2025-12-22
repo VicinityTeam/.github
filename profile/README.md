@@ -1,18 +1,18 @@
-# Atoro Tech
+# Vicinity
 
-Atoro Tech is undergoing a comprehensive rebuild with enhanced support infrastructure.
+Vicinity is undergoing a comprehensive rebuild with enhanced support infrastructure.
 
 ## Projects Architecture
 
 Our platform consists of three integrated components:
-- **AtoroFrontend** - User interface layer
-- **AtoroAPI** - Service and data access layer
-- **AtoroDaemon** - Background processing engine
+- **Talon** - A rewrite for Pterodactyl Panel in Golang (In Progress)
+- **VicnityExternal** - A external Roblox cheat with many features (In Porgress)
+- **Tendix** - A open-source POS solution (Idea)
 
 These components represent a single cohesive platform that has been strategically segmented to optimize development workflows and maintainability.
 
 ---
 
-*Developed by [SnyderWillCode](https://github.com/SnyderWillCode) and [NaysKutzu](https://github.com/NaysKutzu)*
+*Developed by [Arqbyte](https://github.com/arqbyte) and [0x501](https://github.com/0x501)*
 
-*Atoro Tech 2022-present. All rights reserved.*
+*Vicinity 2025-present. All rights reserved.*
